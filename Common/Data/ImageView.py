@@ -1,7 +1,7 @@
 from typing import List
 
 from External.JsonFomatterModule.JsonContract import JsonContract
-from Server.ClusteringModule.Data.PointView import PointView
+from Common.Data.PointView import PointView
 
 
 class ImageView(JsonContract):

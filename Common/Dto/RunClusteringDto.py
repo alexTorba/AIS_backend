@@ -1,5 +1,5 @@
 from External.JsonFomatterModule.JsonContract import JsonContract
-from Server.ClusteringModule.Data.ImageView import ImageView
+from Common.Data.ImageView import ImageView
 
 
 class RunClusteringDto(JsonContract):
