@@ -1,4 +1,4 @@
-from Client.Application import Application
+from Microservice.Application import Application
 
 if __name__ == '__main__':
     app = Application()
